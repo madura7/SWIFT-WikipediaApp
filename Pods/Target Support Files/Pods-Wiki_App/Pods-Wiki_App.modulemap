@@ -1,0 +1,6 @@
+framework module Pods_Wiki_App {
+  umbrella header "Pods-Wiki_App-umbrella.h"
+
+  export *
+  module * { export * }
+}
